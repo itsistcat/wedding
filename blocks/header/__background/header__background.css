@@ -1,0 +1,7 @@
+.header__background{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: rgb(179,133,106);
+}

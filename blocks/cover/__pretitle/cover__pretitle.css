@@ -1,0 +1,27 @@
+.cover__pretitle {
+
+    text-decoration: none;
+    color: #fff;
+    max-width: 360px;
+    margin: 0;
+    /* Шрифты */
+    font-size: 28px;
+    line-height: 32px;
+    text-align: center;
+}
+
+@media screen and (max-width: 767px) {
+    .cover__pretitle {
+        font-size: 16px;
+        line-height: 18px;
+    }
+}
+
+@media screen and (max-width: 520px) {
+    .cover__pretitle {
+        max-width: 288px;
+        font-size: 14px;
+        line-height: 16px;
+
+    }
+}

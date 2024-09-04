@@ -1,0 +1,7 @@
+.coverend{
+        position: relative;
+        background-image: url(../../images/pions.jpg);
+        background-size: cover;
+        background-position: center;
+        height: 96vh;
+}

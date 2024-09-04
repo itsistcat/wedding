@@ -1,0 +1,14 @@
+.top__cont{
+    margin: 0;
+    transition: 0.3s;
+    display: inline-block;
+    height: 48px;
+    width: 48px;
+    background-image: url(../../../images/top.svg);
+    background-size: cover;
+    background-position: center;
+}
+
+.top__cont:hover {
+    opacity: 0.8;
+}
