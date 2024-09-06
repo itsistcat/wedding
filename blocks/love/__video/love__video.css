@@ -1,3 +1,7 @@
 .love__video{
-    
+    height: 390px;
+}
+
+.video{
+    object-fit:cover;
 }

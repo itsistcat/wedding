@@ -7,3 +7,30 @@
     margin: 0 auto 92px;
     padding: 0;
 }
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+    .photo-grid {
+        grid-template-columns: repeat(3, 300px);
+        width: calc(100% - 96px);
+        grid-gap: 12px;
+        margin-bottom: 88px;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .photo-grid {
+        grid-template-columns: repeat(3, 280px);
+        width: calc(100% - 96px);
+        grid-gap: 12px;
+        margin-bottom: 88px;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1022px) {
+    .photo-grid {
+        grid-template-columns: repeat(2, 350px);
+        width: calc(100% - 96px);
+        grid-gap: 12px;
+        margin-bottom: 88px;
+    }
+}
