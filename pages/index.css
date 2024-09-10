@@ -59,7 +59,8 @@
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__subtitle/footer__subtitle.css);
 @import url(../blocks/coverend/coverend.css);
-@import url(../);
+
+@import url(../blocks/video/video.css);
 @import url(../);
 @import url(../);
 @import url(../);

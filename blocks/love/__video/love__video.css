@@ -2,6 +2,14 @@
     height: 390px;
 }
 
-.video{
-    object-fit:cover;
+@media screen and (min-width: 768px) and (max-width: 1000px) {
+    .love__video {
+        height: 320px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .love__video {
+        height: 290px;
+    }
 }

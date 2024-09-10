@@ -1,0 +1,19 @@
+.video{
+    object-fit:cover;
+    width: 800px; 
+    height: 390px;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1000px) {
+    .video {
+        width: 700px; 
+        height: 290px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .video {
+        width: 600px; 
+        height: 250px;
+    }
+}

@@ -34,3 +34,13 @@
         margin-bottom: 88px;
     }
 }
+
+@media screen and (max-width: 767px) {
+    .photo-grid {
+        grid-template-columns: minmax(100px, 1fr);
+        width: calc(100% - 162px);
+        grid-gap: 12px;
+        margin-top: 64px;
+        margin-bottom: 64px;
+    }
+}
