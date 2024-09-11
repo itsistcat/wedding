@@ -11,9 +11,37 @@
     }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (min-width: 640px) and (max-width: 768px) {
     .video {
         width: 600px; 
         height: 250px;
+    }
+}
+
+@media screen and (min-width: 500px) and (max-width: 640px) {
+    .video {
+        width: 450px;
+        height: 200px;
+    }
+}
+
+@media screen and (min-width: 445px) and (max-width: 500px) {
+    .video {
+        width: 400px;
+        height: 170px;
+    }
+}
+
+@media screen and (min-width: 380px) and (max-width: 445px) {
+    .video {
+        width: 350px;
+        height: 150px;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    .video {
+        width: 300px;
+        height: 130px;
     }
 }

@@ -6,3 +6,9 @@
     text-align: center;
     max-width: 80vb;
 }
+
+@media screen and (max-width: 480px) {
+    .location__title {
+        font-size: 39px;
+    }
+}
