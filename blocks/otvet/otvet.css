@@ -6,3 +6,9 @@
     flex-shrink: 0;
     overflow: hidden;
 }
+
+@media screen and (max-width: 480px) {
+    .otvet {
+        padding: 108px 54px;
+    }
+}

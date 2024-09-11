@@ -9,6 +9,12 @@
 
 @media screen and (max-width: 480px) {
     .location__title {
+        font-size: 46px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .location__title {
         font-size: 39px;
     }
 }

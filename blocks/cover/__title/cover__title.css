@@ -13,16 +13,17 @@
   
   @media screen and (max-width: 768px) {
     .cover__title {
+      font-size: 69px;
       margin: 0 auto 32px;
     }
   }
   
-  @media screen and (max-width: 520px) {
+  @media screen and (max-width: 580px) {
     .cover__title {
       font-style: normal;
-      font-size: 32px;
+      font-size: 39px;
       line-height: 35px;
       margin: 0 auto 16px;
-      max-width: 288px;
+      max-width: 350px;
     }
   }

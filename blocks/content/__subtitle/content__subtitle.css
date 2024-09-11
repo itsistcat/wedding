@@ -7,3 +7,15 @@
     line-height: 32px;
     text-align: start;
 }
+
+@media screen and (max-width: 730px) {
+    .content__subtitle {
+        width: 85vw;
+    }
+}
+
+@media screen and (max-width: 580px) {
+    .content__subtitle {
+        line-height: 28px;
+    }
+}
