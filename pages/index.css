@@ -61,8 +61,9 @@
 @import url(../blocks/coverend/coverend.css);
 
 @import url(../blocks/video/video.css);
-@import url(../);
-@import url(../);
+
+@import url(../blocks/timer/__item/timer__item.css);
+@import url(../blocks/timer/__items/timer__items.css);
 @import url(../);
 @import url(../);
 @import url(../);
