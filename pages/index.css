@@ -15,6 +15,8 @@
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__pretitle/cover__pretitle.css);
+@import url(../blocks/cover/__fon/cover__fon.css);
+@import url(../blocks/cover/__filter/cover__filter.css);
 
 @import url(../blocks/content/content.css);
 @import url(../blocks/content/__info/content__info.css);
@@ -72,9 +74,6 @@
 @import url(../blocks/circle/circle.css);
 @import url(../blocks/circle/__img/circle__img.css);
 
-@import url(../);
-@import url(../);
-@import url(../);
 @import url(../);
 @import url(../);
 @import url(../);
