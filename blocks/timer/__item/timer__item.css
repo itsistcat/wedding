@@ -20,3 +20,15 @@
     position: absolute;
     right: -15px;
   }
+
+  @media screen and (max-width: 768px) {
+    .timer__item {
+      min-width: 65px;
+    }
+  }
+
+  @media screen and (max-width: 580px) {
+    .timer__item {
+      min-width: 50px;
+    }
+  }
