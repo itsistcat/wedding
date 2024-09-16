@@ -1,10 +1,9 @@
 .content__title{
     text-decoration: none;
-    color: #fff;
     margin: 0;
     margin-bottom: 60px;
     font-size: 46px;
-
+    font-family: 'Playfair';
     text-align: center;
     max-width: 80vb;
 }

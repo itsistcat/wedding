@@ -1,12 +1,12 @@
 .cover__subtitle {
     text-decoration: none;
-    color: #fff;
     max-width: 360px;
     margin: 0;
     /* Шрифты */
     font-size: 18px;
     line-height: 22px;
     text-align: center;
+    filter: drop-shadow(rgba(0, 0, 0, 0.2) -1px -1px 0px) drop-shadow(rgba(255, 255, 255, 0) 1px 1px 0px);
 }
 
 @media screen and (max-width: 767px) {

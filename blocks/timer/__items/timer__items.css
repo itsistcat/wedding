@@ -1,4 +1,6 @@
 .timer__items {
     display: flex;
-    font-size: 48px;
+    justify-content: center;
+    font-size: 56px;
+    filter: drop-shadow(rgba(0, 0, 0, 0.2) -1px -1px 0px) drop-shadow(rgba(255, 255, 255, 0) 1px 1px 0px);
   }

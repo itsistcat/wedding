@@ -5,9 +5,9 @@
     width: 100%;
     margin: 0 auto;
     /* Цвет */
-    background-color: #FFF;
+    background-color: rgb(255, 249, 245);
     /* background-color: rgb(179,133,106); */
-    color: #FFF;
+    color: #fffff2;
     /* Шрифт */
     font-family: 'Roboto', 'Inter', 'Helvetica Neue', Arial, sans-serif;
     font-style: normal;

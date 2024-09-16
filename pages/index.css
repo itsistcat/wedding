@@ -58,18 +58,20 @@
 @import url(../blocks/top/__cont/top__cont.css);
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__subtitle/footer__subtitle.css);
+
 @import url(../blocks/coverend/coverend.css);
+@import url(../blocks/coverend/__pic/coverend__pic.css);
+@import url(../blocks/coverend/__pretitle/coverend__pretitle.css);
 
 @import url(../blocks/video/video.css);
 
 @import url(../blocks/timer/__item/timer__item.css);
 @import url(../blocks/timer/__items/timer__items.css);
-@import url(../);
-@import url(../);
-@import url(../);
-@import url(../);
-@import url(../);
-@import url(../);
+@import url(../blocks/timer/timer.css);
+
+@import url(../blocks/circle/circle.css);
+@import url(../blocks/circle/__img/circle__img.css);
+
 @import url(../);
 @import url(../);
 @import url(../);
