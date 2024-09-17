@@ -74,6 +74,18 @@
 @import url(../blocks/circle/circle.css);
 @import url(../blocks/circle/__img/circle__img.css);
 
+@import url(../blocks/time/time.css);
+@import url(../blocks/time/__info/time__info.css);
+@import url(../blocks/time/__title/time__title.css);
+@import url(../blocks/time/__subtitle/time__subtitle.css);
+@import url(../blocks/time/__abs/time__abs.css);
+@import url(../blocks/time/__abs/_sub/time__abs_sub.css);
+@import url(../blocks/time/__content/time__content.css);
+@import url(../blocks/time/__sub/time__sub.css);
+@import url(../blocks/time/__day/time__day.css);
+@import url(../blocks/time/__subt/time__subt.css);
+@import url(../);
+@import url(../);
 @import url(../);
 @import url(../);
 @import url(../);

@@ -1,8 +1,8 @@
 .timer__item {
     position: relative;
     min-width: 80px;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
     padding-bottom: 15px;
     text-align: center;
   }
@@ -19,6 +19,13 @@
 
     position: absolute;
     right: -15px;
+  }
+
+  @media screen and (max-width: 1024px) {
+    .timer__item {
+      margin-left: 10px;
+      margin-right: 10px;
+    }
   }
 
   @media screen and (max-width: 768px) {

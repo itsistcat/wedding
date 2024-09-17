@@ -1,4 +1,4 @@
-.content__title{
+.time__title{
     text-decoration: none;
     margin: 0;
     margin-bottom: 60px;
@@ -7,13 +7,4 @@
     font-family: 'Playfair';
     text-align: center;
     max-width: 80vb;
-}
-
-@media screen and (max-width: 580px) {
-    .content__title {
-        font-size: 32px;
-        margin-left: 25px;
-        margin-right: 25px
-        ;
-    }
 }
