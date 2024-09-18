@@ -3,3 +3,9 @@ font-weight: 400;
 font-size: 14px;
 line-height: 1.5;
 }
+
+@media screen and (max-width: 480px) {
+    .time__abs_sub {
+        font-size: 11px;
+    }
+}

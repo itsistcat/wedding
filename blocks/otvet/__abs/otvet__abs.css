@@ -5,3 +5,9 @@
     text-align: center;
     color: rgb(153, 114, 91);
 }
+
+@media screen and (max-width: 480px) {
+    .otvet__abs {
+        font-size: 18px;
+    }
+}

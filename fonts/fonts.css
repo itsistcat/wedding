@@ -38,5 +38,6 @@
      font-style:  normal;
      font-weight: 400;
      font-display: swap;
-     src: url(./Roboto/Roboto-Light-webfont.woff) format("woff"),
+     src: url(./Roboto/Roboto-Light.woff) format("woff"),
+     url(./Roboto/Roboto-Light.woff2) format("woff");
    }

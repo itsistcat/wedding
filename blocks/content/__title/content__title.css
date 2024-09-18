@@ -9,9 +9,9 @@
     max-width: 80vb;
 }
 
-@media screen and (max-width: 580px) {
+@media screen and (max-width: 480px) {
     .content__title {
-        font-size: 32px;
+        font-size: 36px;
         margin-left: 25px;
         margin-right: 25px
         ;

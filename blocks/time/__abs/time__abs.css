@@ -7,3 +7,10 @@
     line-height: 32px;
     text-align: start;
 }
+
+@media screen and (max-width: 480px) {
+    .time__abs {
+        font-size: 16px;
+    }
+}
+

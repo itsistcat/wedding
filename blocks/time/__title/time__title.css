@@ -6,5 +6,10 @@
     font-weight: 400;
     font-family: 'Playfair';
     text-align: center;
-    max-width: 80vb;
+}
+
+@media screen and (max-width: 480px) {
+    .time__title {
+        font-size: 36px;
+    }
 }

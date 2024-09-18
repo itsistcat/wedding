@@ -1,0 +1,8 @@
+.art{
+    position: relative;
+    background-image: url(../../images/photo-72.jpg);
+    opacity: 0.89;
+    background-size: cover;
+    background-position: center;
+    height: 20vh;
+}

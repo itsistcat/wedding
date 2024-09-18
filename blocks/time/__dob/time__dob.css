@@ -1,0 +1,9 @@
+.time__dob{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: flex-start;
+    gap: 8px;
+    padding: 0px 0px 42px;
+}

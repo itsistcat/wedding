@@ -9,3 +9,9 @@
     text-align: center;
     max-width: 80vb;
 }
+
+@media screen and (max-width: 480px) {
+    .love__title {
+        font-size: 36px;
+    }
+}

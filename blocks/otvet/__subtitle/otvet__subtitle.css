@@ -4,3 +4,9 @@
     text-align: center;
     color: rgb(153, 114, 91);
 }
+
+@media screen and (max-width: 480px) {
+    .otvet__subtitle{
+        font-size: 21.6px;
+    }
+}

@@ -3,14 +3,14 @@
     text-decoration: none;
     max-width: 360px;
     /* Шрифты */
-    font-size: 28px;
+    font-size: 36px;
     line-height: 32px;
     text-align: center;
 }
 
 @media screen and (max-width: 767px) {
     .coverend__pretitle {
-        font-size: 16px;
+        font-size: 26px;
         line-height: 18px;
     }
 }
@@ -18,7 +18,7 @@
 @media screen and (max-width: 520px) {
     .coverend__pretitle {
         max-width: 288px;
-        font-size: 14px;
+        font-size: 20px;
         line-height: 16px;
 
     }
